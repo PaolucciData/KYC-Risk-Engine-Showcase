@@ -66,3 +66,6 @@ It does not represent real customer data, real investigations, or production-gra
 - Transaction monitoring integration
 - Dashboard visualization
 - SQL integration
+
+## Sample investigative MEMO
+![EDD_MEMO](screenshots/internal_memo.png)
